@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=giuppycode&label=Profile%20views&color=0e75b6&style=flat" alt="giuppycode" /> </p>
 
-- 🌱 I’m currently learning **Python libraries for machine learning**
+- 🌱 I’m currently learning node, next, react and mongodb
 
 - 📫 How to reach me **giuseppecattolico2004@gmail.com**
 
