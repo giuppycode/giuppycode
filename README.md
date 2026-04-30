@@ -4,12 +4,15 @@
 <br/>
 
 ### 👨‍💻 About Me
-
 - 🎓 I'm a passionate **B.S. Computer Science** student at the University of Bologna.
-- 🌱 I’m currently deep-diving into the MERN/Next ecosystem: **Node.js, Next.js, React, and MongoDB**.
-- 📫 How to reach me: Checkout my personal website [**giup.it**](https://giup.it).
+- 🌱 I'm currently deep-diving into the MERN/Next ecosystem: **Node.js, Next.js, React, and MongoDB**.
+- 📫 How to reach me: Check out my personal website
 
----
+<p align="center">
+  <a href="https://giup.it">
+    <img src="https://api.microlink.io/?url=https://giup.it&screenshot=true&meta=false&embed=screenshot.url" width="400" />
+  </a>
+</p>
 
 ### 🛠️ Tech Stack & Tools
 
